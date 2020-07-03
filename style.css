@@ -1,0 +1,30 @@
+footer{
+    background-color: dimgrey;
+    height: 150px;
+    background-image: url("https://cdn.hipwallpaper.com/i/41/55/g7nFmj.jpg");
+    border-top: 5px solid black;
+}
+
+.footer-logo{
+    font-size: 40px;
+    font-style: bold;
+    font-family: "Open Sans";
+    float: left;
+    padding-left: 36px;
+    padding-top: 20px;
+    color: black;
+    
+}
+
+.footer-list{
+    float: right;
+    padding-right: 5%;
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: "Open Sans";
+    color: black;
+}
+
+li {
+    list-style: none;
+}
